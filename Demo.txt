@@ -1,0 +1,18 @@
+Command to execute before running application:
+npm install bootstrap --save
+import 'bootstrap/dist/css/bootstrap.min.css';
+npm install bootstrap --save
+npm add axios
+ npm install react-modal
+------------------------------------------------------------
+
+design code
+
+
+ <div className="container">
+        <div className="row">
+          <div className="col"></div>
+<div className="col">Middle</div>
+<div className="col"></div>
+</div>
+</div>
